@@ -6,10 +6,6 @@ where received_dt >= '2017-01-01';
 
 -- COMMAND ----------
 
-gfasdfasdfsd
-
--- COMMAND ----------
-
 --This is joining 4 tables into an output dataset for contact center touches;
 drop table if exists temp.mike_contact_center_touches;
 
